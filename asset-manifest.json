@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/starshipfly/static/css/main.5f361e03.chunk.css",
+    "main.js": "/starshipfly/static/js/main.e801f750.chunk.js",
+    "main.js.map": "/starshipfly/static/js/main.e801f750.chunk.js.map",
+    "runtime-main.js": "/starshipfly/static/js/runtime-main.5ac53f2a.js",
+    "runtime-main.js.map": "/starshipfly/static/js/runtime-main.5ac53f2a.js.map",
+    "static/css/2.4c9505d4.chunk.css": "/starshipfly/static/css/2.4c9505d4.chunk.css",
+    "static/js/2.101022d2.chunk.js": "/starshipfly/static/js/2.101022d2.chunk.js",
+    "static/js/2.101022d2.chunk.js.map": "/starshipfly/static/js/2.101022d2.chunk.js.map",
+    "index.html": "/starshipfly/index.html",
+    "precache-manifest.9d4e7c652f6deb622e2f24b0879a2d66.js": "/starshipfly/precache-manifest.9d4e7c652f6deb622e2f24b0879a2d66.js",
+    "service-worker.js": "/starshipfly/service-worker.js",
+    "static/css/2.4c9505d4.chunk.css.map": "/starshipfly/static/css/2.4c9505d4.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/starshipfly/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.101022d2.chunk.js.LICENSE.txt": "/starshipfly/static/js/2.101022d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ac53f2a.js",
+    "static/css/2.4c9505d4.chunk.css",
+    "static/js/2.101022d2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e801f750.chunk.js"
+  ]
+}
